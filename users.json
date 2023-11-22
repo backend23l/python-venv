@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "fullname": "fadsfsad",
+            "email": "dfasdfas",
+            "phone": "fasdfdsa",
+            "age": 231
+        },
+        {
+            "fullname": "fadsfsad",
+            "email": "dfasdfas",
+            "phone": "fasdfdsa",
+            "age": 231
+        }
+    ],
+    "info": {
+        "count": 2
+    }
+}
