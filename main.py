@@ -8,11 +8,12 @@ if response.status_code == 200:
     content = response.content
 
     data = json.loads(content.decode())
-    print(data)
+    # print(data)
 
-{
-    "fullname": "fadsfsad",
-    "email": "dfasdfas",
-    "phone": "fasdfdsa",
-    "age": 231
-}
+for i in data['results']:
+    dic={}
+    dic['fullname'] = f"{i['name']['first']} {i['name']['last']}"
+    dic['email'] = i['email']
+    dic['phone'] = i['cell']
+    dic['age'] = i['dob']['age']
+# print(dic)

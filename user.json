@@ -1,0 +1,37 @@
+{
+    "users": [
+        {
+            "fullname": "\u00dcmit Ke\u00e7eci",
+            "phone": "(679)-472-4706",
+            "email": "umit.kececi@example.com",
+            "age": 28
+        },
+        {
+            "fullname": "Alisa Leppanen",
+            "phone": "08-576-314",
+            "email": "alisa.leppanen@example.com",
+            "age": 41
+        },
+        {
+            "fullname": "Niklas Manninen",
+            "phone": "03-386-957",
+            "email": "niklas.manninen@example.com",
+            "age": 38
+        },
+        {
+            "fullname": "Shayan Fossland",
+            "phone": "77365843",
+            "email": "shayan.fossland@example.com",
+            "age": 31
+        },
+        {
+            "fullname": "Julie Montgomery",
+            "phone": "031-937-5423",
+            "email": "julie.montgomery@example.com",
+            "age": 73
+        }
+    ],
+    "info": {
+        "count": 5
+    }
+}
