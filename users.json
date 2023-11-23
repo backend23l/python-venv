@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "fullname": "Veneranda Campos",
+            "email": "veneranda.campos@example.com",
+            "phone": "(05) 1070-7597",
+            "age": 26,
+            "gender": "female"
+        },
+        {
+            "fullname": "Veneranda Campos",
+            "email": "veneranda.campos@example.com",
+            "phone": "(05) 1070-7597",
+            "age": 26,
+            "gender": "female"
+        },
+        {
+            "fullname": "Veneranda Campos",
+            "email": "veneranda.campos@example.com",
+            "phone": "(05) 1070-7597",
+            "age": 26,
+            "gender": "female"
+        },
+        {
+            "fullname": "Veneranda Campos",
+            "email": "veneranda.campos@example.com",
+            "phone": "(05) 1070-7597",
+            "age": 26,
+            "gender": "female"
+        },
+        {
+            "fullname": "Veneranda Campos",
+            "email": "veneranda.campos@example.com",
+            "phone": "(05) 1070-7597",
+            "age": 26,
+            "gender": "female"
+        }
+    ],
+    "info": {
+        "count": 5,
+        "gender": "female"
+    }
+}
