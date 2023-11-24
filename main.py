@@ -19,6 +19,7 @@ def get_user(gen):
             }
     return user
 
+
 def get_n_users(n:int,gen:str):
     users = []
     i = 0
@@ -39,3 +40,4 @@ def write_users(use:dict):
 
 users = get_n_users(9,"male")
 write_users(users)
+
