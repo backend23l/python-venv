@@ -1,193 +1,150 @@
 {
     "users": [
         {
-            "fullname": "Alisa Rintala",
-            "email": "alisa.rintala@example.com",
-            "phone": "05-232-240",
-            "age": 59
+            "fullname": "Carrie Harris",
+            "gender": "male",
+            "email": "carrie.harris@example.com",
+            "phone": "(651) 515-8628",
+            "age": 70
         },
         {
-            "fullname": "Josh Newman",
-            "email": "josh.newman@example.com",
-            "phone": "071-577-5306",
-            "age": 36
+            "fullname": "Rosie Fuller",
+            "gender": "male",
+            "email": "rosie.fuller@example.com",
+            "phone": "013873 28724",
+            "age": 53
         },
         {
-            "fullname": "Fadime Kluge",
-            "email": "fadime.kluge@example.com",
-            "phone": "0259-9102590",
-            "age": 62
-        },
-        {
-            "fullname": "Akseli Saarela",
-            "email": "akseli.saarela@example.com",
-            "phone": "08-777-666",
-            "age": 51
-        },
-        {
-            "fullname": "Josefina Schmitt",
-            "email": "josefina.schmitt@example.com",
-            "phone": "075 229 76 86",
-            "age": 22
-        },
-        {
-            "fullname": "Sagar Kouser",
-            "email": "sagar.kouser@example.com",
-            "phone": "9138386248",
-            "age": 79
-        },
-        {
-            "fullname": "Anthony Lavigne",
-            "email": "anthony.lavigne@example.com",
-            "phone": "J74 I34-8386",
-            "age": 39
-        },
-        {
-            "fullname": "Jesus Foster",
-            "email": "jesus.foster@example.com",
-            "phone": "015396 61735",
-            "age": 33
-        },
-        {
-            "fullname": "\u0646\u064a\u0645\u0627 \u0633\u0627\u0644\u0627\u0631\u06cc",
-            "email": "nym.slry@example.com",
-            "phone": "080-98118871",
-            "age": 66
-        },
-        {
-            "fullname": "Lenny Deschamps",
-            "email": "lenny.deschamps@example.com",
-            "phone": "05-63-53-01-13",
-            "age": 33
-        },
-        {
-            "fullname": "Sayali Rajesh",
-            "email": "sayali.rajesh@example.com",
-            "phone": "8858985967",
-            "age": 23
-        },
-        {
-            "fullname": "Silvija \u0110okanovi\u0107",
-            "email": "silvija.dokanovic@example.com",
-            "phone": "017-1370-229",
-            "age": 54
-        },
-        {
-            "fullname": "Dzvinka Zheliborskiy",
-            "email": "dzvinka.zheliborskiy@example.com",
-            "phone": "(066) K13-3285",
-            "age": 56
-        },
-        {
-            "fullname": "Emmanuel Lacroix",
-            "email": "emmanuel.lacroix@example.com",
-            "phone": "076 256 70 23",
-            "age": 23
-        },
-        {
-            "fullname": "Justine B\u00e9langer",
-            "email": "justine.belanger@example.com",
-            "phone": "G26 O25-2880",
-            "age": 37
-        },
-        {
-            "fullname": "Guy Holt",
-            "email": "guy.holt@example.com",
-            "phone": "08-7860-8939",
-            "age": 72
-        },
-        {
-            "fullname": "Elsie Steward",
-            "email": "elsie.steward@example.com",
-            "phone": "02-1152-4493",
-            "age": 61
-        },
-        {
-            "fullname": "Connor Wade",
-            "email": "connor.wade@example.com",
-            "phone": "04-2121-8880",
-            "age": 57
-        },
-        {
-            "fullname": "Ian Carpenter",
-            "email": "ian.carpenter@example.com",
-            "phone": "(228) 763-3288",
-            "age": 57
-        },
-        {
-            "fullname": "Marta Vidal",
-            "email": "marta.vidal@example.com",
-            "phone": "950-075-428",
-            "age": 72
-        },
-        {
-            "fullname": "Ilonka L\u00fcbben",
-            "email": "ilonka.lubben@example.com",
-            "phone": "0487-6865218",
-            "age": 28
-        },
-        {
-            "fullname": "Alessio Brun",
-            "email": "alessio.brun@example.com",
-            "phone": "02-73-62-26-05",
-            "age": 57
-        },
-        {
-            "fullname": "Storm Madsen",
-            "email": "storm.madsen@example.com",
-            "phone": "93482438",
+            "fullname": "Lia Linden",
+            "gender": "male",
+            "email": "lia.linden@example.com",
+            "phone": "0562-7353799",
             "age": 24
         },
         {
-            "fullname": "\u0639\u0631\u0634\u064a\u0627 \u0645\u0648\u0633\u0648\u06cc",
-            "email": "aarshy.mwswy@example.com",
-            "phone": "039-74861293",
-            "age": 60
+            "fullname": "Kathryn Nichols",
+            "gender": "male",
+            "email": "kathryn.nichols@example.com",
+            "phone": "09-2117-6684",
+            "age": 31
         },
         {
-            "fullname": "Annette Hicks",
-            "email": "annette.hicks@example.com",
-            "phone": "04-5800-3226",
-            "age": 37
+            "fullname": "\u0622\u062f\u0631\u06cc\u0646\u0627 \u0639\u0644\u06cc\u0632\u0627\u062f\u0647",
+            "gender": "male",
+            "email": "adryn.aalyzdh@example.com",
+            "phone": "080-84274635",
+            "age": 52
         },
         {
-            "fullname": "Zerrin Kootstra",
-            "email": "zerrin.kootstra@example.com",
-            "phone": "(054) 0208116",
-            "age": 40
+            "fullname": "Mar\u00eda Cristina Vel\u00e1squez",
+            "gender": "male",
+            "email": "mariacristina.velasquez@example.com",
+            "phone": "(602) 448 0403",
+            "age": 29
         },
         {
-            "fullname": "Paige King",
-            "email": "paige.king@example.com",
-            "phone": "(116)-143-5511",
-            "age": 77
+            "fullname": "Malvin Simensen",
+            "gender": "male",
+            "email": "malvin.simensen@example.com",
+            "phone": "75679069",
+            "age": 24
         },
         {
-            "fullname": "Sofia Mendoza",
-            "email": "sofia.mendoza@example.com",
-            "phone": "016977 36920",
-            "age": 51
+            "fullname": "Anna Li",
+            "gender": "male",
+            "email": "anna.li@example.com",
+            "phone": "(524)-328-0330",
+            "age": 50
         },
         {
-            "fullname": "\u00d6mer Schetters",
-            "email": "omer.schetters@example.com",
-            "phone": "(057) 8662566",
-            "age": 46
+            "fullname": "Abhinav Shukla",
+            "gender": "male",
+            "email": "abhinav.shukla@example.com",
+            "phone": "9317046224",
+            "age": 42
         },
         {
-            "fullname": "Jes\u00fas Castillo",
-            "email": "jesus.castillo@example.com",
-            "phone": "982-921-933",
+            "fullname": "\u0633\u0627\u0645 \u067e\u0627\u0631\u0633\u0627",
+            "gender": "male",
+            "email": "sm.prs@example.com",
+            "phone": "075-69383508",
+            "age": 36
+        },
+        {
+            "fullname": "Oliver Singh",
+            "gender": "male",
+            "email": "oliver.singh@example.com",
+            "phone": "B26 P17-2649",
+            "age": 47
+        },
+        {
+            "fullname": "Anka Na\u0111",
+            "gender": "male",
+            "email": "anka.nad@example.com",
+            "phone": "024-4381-114",
             "age": 67
         },
         {
-            "fullname": "Jordan Smith",
-            "email": "jordan.smith@example.com",
-            "phone": "(067)-987-0961",
+            "fullname": "Angelina Zeljkovi\u0107",
+            "gender": "male",
+            "email": "angelina.zeljkovic@example.com",
+            "phone": "036-7785-963",
+            "age": 52
+        },
+        {
+            "fullname": "Sedef K\u0131l\u0131\u00e7\u00e7\u0131",
+            "gender": "male",
+            "email": "sedef.kilicci@example.com",
+            "phone": "(995)-477-5137",
+            "age": 24
+        },
+        {
+            "fullname": "Alessio Guillaume",
+            "gender": "male",
+            "email": "alessio.guillaume@example.com",
+            "phone": "02-22-53-22-25",
+            "age": 68
+        },
+        {
+            "fullname": "Rasmus Poulsen",
+            "gender": "male",
+            "email": "rasmus.poulsen@example.com",
+            "phone": "24845030",
             "age": 37
+        },
+        {
+            "fullname": "Suzana Radanovi\u0107",
+            "gender": "male",
+            "email": "suzana.radanovic@example.com",
+            "phone": "022-5343-872",
+            "age": 35
+        },
+        {
+            "fullname": "Tygo Hoogenboezem",
+            "gender": "male",
+            "email": "tygo.hoogenboezem@example.com",
+            "phone": "(041) 0744716",
+            "age": 24
+        },
+        {
+            "fullname": "Shrishti Salian",
+            "gender": "male",
+            "email": "shrishti.salian@example.com",
+            "phone": "9521812418",
+            "age": 50
+        },
+        {
+            "fullname": "Atharv Prabhakaran",
+            "gender": "male",
+            "email": "atharv.prabhakaran@example.com",
+            "phone": "8337214458",
+            "age": 60
         }
     ],
     "info": {
-        "count": 31
+        "count": 20
+    },
+    "gender": {
+        "male count": 20
     }
 }
