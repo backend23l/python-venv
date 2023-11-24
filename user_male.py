@@ -35,5 +35,5 @@ def write_user(users:dict):
         data = json.dumps(users,indent=4)
         w.write(data)
 get_user('female')
-users = get_n_users(5,get_user('female'))
+users = get_n_users(10,get_user('female'))
 write_user(users)
