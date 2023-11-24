@@ -17,21 +17,23 @@ def get_user():
             "email": randomuser['email'],
             "phone": randomuser['phone'],
             "age": randomuser['dob']['age'],
+            "gender": randomuser['gender']
         }
     return user
 
-def get_n_users(n: int) -> list[dict]:
+def get_n_users(n: int, gender: str) -> list[dict]:
     users = []
-    for i in range(n):
+    while len(users) != n:
         user = get_user()
-        users.append(user)
+        if user['gender'] == gender:
+            users.append(user)
 
-    return {"users": users, "info": {"count": n}}
+    return {"users": users, "info": {"count": n, "gender": gender}}
 
 def write_users(users: dict):
     with open('users.json', 'w') as f:
         data_json = json.dumps(users, indent=4)
         f.write(data_json)
 
-users = get_n_users(31) 
+users = get_n_users(31, 'female') 
 write_users(users)
